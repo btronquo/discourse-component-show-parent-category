@@ -29,7 +29,7 @@ To install this component, follow these steps:
 1. Go to your Discourse Admin Panel.
 2. Navigate to **Customize** > **Themes** > **Components**.
 3. Click on **Install** and choose **Install from GitHub**.
-4. Paste the repository URL: `https://github.com/your-repo/discourse-show-parent-category`.
+4. Paste the repository URL: `https://github.com/btronquo/discourse-component-show-parent-category`.
 5. Enable the component on your active theme.
 
 ## Customization
