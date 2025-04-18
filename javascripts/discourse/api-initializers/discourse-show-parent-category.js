@@ -77,7 +77,7 @@ export default apiInitializer("1.8.0", (api) => {
       html += iconHTML("lock");
     }
 
-    html += `<span class="badge-category__name" ${categoryDir}>${categoryName}</span> `;
+    html += `<span class="badge-category__name" ${categoryDir}>${categoryName}</span>`;
     html += "</span>";
 
     if (href) {
